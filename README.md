@@ -3,7 +3,9 @@
 
 - 📖Actualmente estoy haciendo **un curso de IA y Ciberseguridad de la Fundación ONCE**
 
-- 📫 Puede contactar conmigo: **sanchezalonsoemiliano@gmail.com**
+- 📫 correo de contacto: **sanchezalonsoemiliano@gmail.com**
+
+- 👀 Observaciones: **♿Grado de Discapacidad: 82%♿**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
