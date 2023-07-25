@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋, me llamo Emiliano Sánchez Alonso♿</h1>
+<h1 align="center">Hola👋, me llamo Emiliano Sánchez Alonso. también conocido como "elcojete"♿</h1>
 <h3 align="center">Titulado en Administración de Sistemas Informáticos en Red💻</h3>
 
 - 📖Actualmente estoy haciendo **un curso de IA y Ciberseguridad de la Fundación ONCE**
