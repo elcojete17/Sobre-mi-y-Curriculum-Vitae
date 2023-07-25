@@ -2,7 +2,7 @@
 <h3 align="center">Titulado en Administración de Sistemas Informáticos en Red💻</h3>
 
 - 📖Administrador de Sistemas Informáticos en Red📖
-- 📖SET-UP Fundamentos Digitales, Análisis de Vulnerabilidades y Técnico en Pentesting Junior (Fundación ONCE y Unión Europea)📖
+- 📖Certificaciones: SET-UP Fundamentos Digitales, Análisis de Vulnerabilidades y Técnico en Pentesting Junior (Fundación ONCE y Unión Europea)📖
 
 - 📫Correo de contacto: **sanchezalonsoemiliano@gmail.com**
 
