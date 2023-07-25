@@ -1,11 +1,12 @@
 <h1 align="center">Hola👋!! me llamo Emiliano Sánchez Alonso, también conocido como "elcojete"♿</h1>
 <h3 align="center">Titulado en Administración de Sistemas Informáticos en Red💻</h3>
 
-- 📖Administrador de Sistemas Informáticos en Red, Técnico en Pentesting Junior y Análisis de Vulnerabilidades*
+- 📖Administrador de Sistemas Informáticos en Red📖
+- 📖Técnico en Pentesting Junior y Análisis de Vulnerabilidades (Fundación ONCE y Unión Europea)📖
 
-- 📫 Correo de contacto: **sanchezalonsoemiliano@gmail.com**
+- 📫Correo de contacto: **sanchezalonsoemiliano@gmail.com**
 
-- 👀 Observaciones: **♿Grado de Discapacidad: 82%♿**
+- 👀Observaciones: **♿Grado de Discapacidad: 82%♿**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
