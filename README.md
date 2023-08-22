@@ -7,6 +7,7 @@
 - 📫Correo de contacto: **sanchezalonsoemiliano@gmail.com**
 
 - 👀Observaciones: **♿Grado de Discapacidad: 82%♿**
+- <a href="https://github.com/elcojete17/Sobre-mi-y-Curriculum-Vitae/blob/eba047edd91ef9bd33c988b22ceec94f54fce664/Curr%C3%ADculum%20Vitae-Emiliano%20S%C3%A1nchez%20Alonso.pdf">Currículum Vitae</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
