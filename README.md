@@ -13,7 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/3lk0j0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elcojete17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emiliano sánchez alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emiliano sánchez alonso" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/
+emilianosanchezalonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emiliano sánchez alonso" height="30" width="40" /></a>
 <a href="https://fb.com/emiliano sánchez alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emiliano sánchez alonso" height="30" width="40" /></a>
 <a href="https://www.instagram.com/3lk0j0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elcojete17" height="30" width="40" /></a>
 </p>
