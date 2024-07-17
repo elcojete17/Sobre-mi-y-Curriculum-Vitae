@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋!! Me llamo Emiliano Sánchez Alonso, también conocido como "3lk0j0"♿</h1>
-<h3 align="center">Titulado en Administración de Sistemas Informáticos en Red💻</h3>
+<h3 align="center">Titulado en Administración de Sistemas Informáticos en Red y Pentesting Junior💻</h3>
 
-- 📖Administrador de Sistemas Informáticos en Red📖
+- 📖Técnico Superior de Administración de Sistemas Informáticos en Red y Pentester Junior📖
 - 📖Certificaciones: SET-UP Fundamentos Digitales, Análisis de Vulnerabilidades y Técnico en Pentesting Junior (Fundación ONCE y Unión Europea)📖
 
 - 📫Correo de contacto: **sanchezalonsoemiliano@gmail.com**
